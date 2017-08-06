@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to ilovecelia
 
-You can use the [editor on GitHub](https://github.com/TunnyOil/ilovecelia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is where i put our story on this website.I hope you and me can see this story goes on and on.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website is set up in 2017 August 6th, our next big event will be visit Qinghai Lake at August 24th to 28th, 
 
 ### Markdown
 
